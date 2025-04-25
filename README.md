@@ -95,6 +95,11 @@ You can now use this file (cleaned_employee_data.csv) for all further analysis s
    - Represented using a scatter plot and correlation matrix.
 
 
+## 📊 Visualizations
+Bar charts, count plots, and scatter plots were used to present the data clearly.
+
+
+
 #### ✅ Analysis Step 6: Import Visualization Libraries
 
 Add this to a new cell:
@@ -196,6 +201,56 @@ Add this to a new cell:
 ##### Output
 
 ![image](https://github.com/user-attachments/assets/17f5ca26-289a-480f-8570-1602553157f0)
+
+
+
+#### ✅ Analysis Step 11: Task 5 – Correlation Between Age and Salary
+
+##### Plot
+
+![image](https://github.com/user-attachments/assets/ebb064fa-e7dd-4b59-b8ab-392b2ec1e5be)
+
+##### Output
+
+![image](https://github.com/user-attachments/assets/87f64672-427b-4316-9a90-e27b8e922ed2)
+
+##### Correlation code and output
+
+![image](https://github.com/user-attachments/assets/afd5e397-24ad-47ab-8d36-6edad98c0b93)
+
+
+
+
+## 🧠 Data Story
+
+#### 📘 Data Story: Key Insights from Employee Data
+
+
+After analyzing ABC Company’s employee dataset, we discovered the following insights:
+
+🔹 Team Distribution: Some teams have a much higher number of employees. This suggests workload or staffing strategy differences across departments.
+
+🔹 Job Position Analysis: Specific roles such as Shooting Guard (SG) and Point Guard (PG) are more common, which may indicate popular or critical roles within the organization.
+
+🔹 Age Demographics: The 26–30 age group dominates the workforce. This could mean the company favors early-career professionals or recently hired younger employees.
+
+🔹 Salary Trends:
+
+The Cleveland Cavaliers incurs the highest salary expenditure, possibly due to having more senior or specialized roles.
+
+The C also accounts for the highest salary, highlighting it as a high-value or leadership role.
+
+🔹 Age & Salary Correlation: A slight positive correlation exists between age and salary, indicating that older employees may earn slightly more due to experience or tenure.
+
+These insights help guide workforce planning, budgeting, and team balancing for ABC Company.
+
+
+
+
+
+
+
+
 
 
 
